@@ -1,0 +1,338 @@
+[
+  {
+    "id": "active-directory-attacks",
+    "path": "skills/.disabled/active-directory-attacks",
+    "name": "Active Directory Attacks",
+    "description": "This skill should be used when the user asks to \"attack Active Directory\", \"exploit AD\", \"Kerberoasting\", \"DCSync\", \"pass-the-hash\", \"BloodHound enumeration\", \"Golden Ticket\", \"Silver Ticket\", \"AS-REP roasting\", \"NTLM relay\", or needs guidance on Windows domain penetration testing.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "angular-migration",
+    "path": "skills/.disabled/angular-migration",
+    "name": "angular-migration",
+    "description": "Migrate from AngularJS to Angular using hybrid mode, incremental component rewriting, and dependency injection updates. Use when upgrading AngularJS applications, planning framework migrations, or modernizing legacy Angular code.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "attack-tree-construction",
+    "path": "skills/.disabled/attack-tree-construction",
+    "name": "attack-tree-construction",
+    "description": "Build comprehensive attack trees to visualize threat paths. Use when mapping attack scenarios, identifying defense gaps, or communicating security risks to stakeholders.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "blockchain-developer",
+    "path": "skills/.disabled/blockchain-developer",
+    "name": "blockchain-developer",
+    "description": "Build production-ready Web3 applications, smart contracts, and",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "brand-guidelines-community",
+    "path": "skills/.disabled/brand-guidelines-community",
+    "name": "brand-guidelines",
+    "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "c-pro",
+    "path": "skills/.disabled/c-pro",
+    "name": "c-pro",
+    "description": "Write efficient C code with proper memory management, pointer",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "cpp-pro",
+    "path": "skills/.disabled/cpp-pro",
+    "name": "cpp-pro",
+    "description": "Write idiomatic C++ code with modern features, RAII, smart",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "defi-protocol-templates",
+    "path": "skills/.disabled/defi-protocol-templates",
+    "name": "defi-protocol-templates",
+    "description": "Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and lending systems. Use when building decentralized finance applications or smart contract protocols.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "django-pro",
+    "path": "skills/.disabled/django-pro",
+    "name": "django-pro",
+    "description": "Master Django 5.x with async views, DRF, Celery, and Django",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "elixir-pro",
+    "path": "skills/.disabled/elixir-pro",
+    "name": "elixir-pro",
+    "description": "Write idiomatic Elixir code with OTP patterns, supervision trees,",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "ethical-hacking-methodology",
+    "path": "skills/.disabled/ethical-hacking-methodology",
+    "name": "Ethical Hacking Methodology",
+    "description": "This skill should be used when the user asks to \"learn ethical hacking\", \"understand penetration testing lifecycle\", \"perform reconnaissance\", \"conduct security scanning\", \"exploit vulnerabilities\", or \"write penetration test reports\". It provides comprehensive ethical hacking methodology and techniques.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "flutter-expert",
+    "path": "skills/.disabled/flutter-expert",
+    "name": "flutter-expert",
+    "description": "Master Flutter development with Dart 3, advanced widgets, and",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "game-development",
+    "path": "skills/.disabled/game-development",
+    "name": "game-development",
+    "description": "Game development orchestrator. Routes to platform-specific skills based on project needs.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "golang-pro",
+    "path": "skills/.disabled/golang-pro",
+    "name": "golang-pro",
+    "description": "Master Go 1.21+ with modern patterns, advanced concurrency,",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "haskell-pro",
+    "path": "skills/.disabled/haskell-pro",
+    "name": "haskell-pro",
+    "description": "Expert Haskell engineer specializing in advanced type systems, pure",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "hr-pro",
+    "path": "skills/.disabled/hr-pro",
+    "name": "hr-pro",
+    "description": "Professional, ethical HR partner for hiring,",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "internal-comms-community",
+    "path": "skills/.disabled/internal-comms-community",
+    "name": "internal-comms",
+    "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "ios-developer",
+    "path": "skills/.disabled/ios-developer",
+    "name": "ios-developer",
+    "description": "Develop native iOS applications with Swift/SwiftUI. Masters iOS 18,",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "java-pro",
+    "path": "skills/.disabled/java-pro",
+    "name": "java-pro",
+    "description": "Master Java 21+ with modern features like virtual threads, pattern",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "julia-pro",
+    "path": "skills/.disabled/julia-pro",
+    "name": "julia-pro",
+    "description": "Master Julia 1.10+ with modern features, performance optimization,",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "k8s-security-policies",
+    "path": "skills/.disabled/k8s-security-policies",
+    "name": "k8s-security-policies",
+    "description": "Implement Kubernetes security policies including NetworkPolicy, PodSecurityPolicy, and RBAC for production-grade security. Use when securing Kubernetes clusters, implementing network isolation, or enforcing pod security standards.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "linux-privilege-escalation",
+    "path": "skills/.disabled/linux-privilege-escalation",
+    "name": "Linux Privilege Escalation",
+    "description": "This skill should be used when the user asks to \"escalate privileges on Linux\", \"find privesc vectors on Linux systems\", \"exploit sudo misconfigurations\", \"abuse SUID binaries\", \"exploit cron jobs for root access\", \"enumerate Linux systems for privilege escalation\", or \"gain root access from low-privilege shell\". It provides comprehensive techniques for identifying and exploiting privilege escalation paths on Linux systems.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "minecraft-bukkit-pro",
+    "path": "skills/.disabled/minecraft-bukkit-pro",
+    "name": "minecraft-bukkit-pro",
+    "description": "Master Minecraft server plugin development with Bukkit, Spigot, and",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "moodle-external-api-development",
+    "path": "skills/.disabled/moodle-external-api-development",
+    "name": "moodle-external-api-development",
+    "description": "Create custom external web service APIs for Moodle LMS. Use when implementing web services for course management, user tracking, quiz operations, or custom plugin functionality. Covers parameter validation, database operations, error handling, service registration, and Moodle coding standards.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "nft-standards",
+    "path": "skills/.disabled/nft-standards",
+    "name": "nft-standards",
+    "description": "Implement NFT standards (ERC-721, ERC-1155) with proper metadata handling, minting strategies, and marketplace integration. Use when creating NFT contracts, building NFT marketplaces, or implementing digital asset systems.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "pentest-checklist",
+    "path": "skills/.disabled/pentest-checklist",
+    "name": "Pentest Checklist",
+    "description": "This skill should be used when the user asks to \"plan a penetration test\", \"create a security assessment checklist\", \"prepare for penetration testing\", \"define pentest scope\", \"follow security testing best practices\", or needs a structured methodology for penetration testing engagements.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "pentest-commands",
+    "path": "skills/.disabled/pentest-commands",
+    "name": "Pentest Commands",
+    "description": "This skill should be used when the user asks to \"run pentest commands\", \"scan with nmap\", \"use metasploit exploits\", \"crack passwords with hydra or john\", \"scan web vulnerabilities with nikto\", \"enumerate networks\", or needs essential penetration testing command references.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "php-pro",
+    "path": "skills/.disabled/php-pro",
+    "name": "php-pro",
+    "description": "Write idiomatic PHP code with generators, iterators, SPL data",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "privilege-escalation-methods",
+    "path": "skills/.disabled/privilege-escalation-methods",
+    "name": "Privilege Escalation Methods",
+    "description": "This skill should be used when the user asks to \"escalate privileges\", \"get root access\", \"become administrator\", \"privesc techniques\", \"abuse sudo\", \"exploit SUID binaries\", \"Kerberoasting\", \"pass-the-ticket\", \"token impersonation\", or needs guidance on post-exploitation privilege escalation for Linux or Windows systems.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "red-team-tools",
+    "path": "skills/.disabled/red-team-tools",
+    "name": "Red Team Tools and Methodology",
+    "description": "This skill should be used when the user asks to \"follow red team methodology\", \"perform bug bounty hunting\", \"automate reconnaissance\", \"hunt for XSS vulnerabilities\", \"enumerate subdomains\", or needs security researcher techniques and tool configurations from top bug bounty hunters.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "ruby-pro",
+    "path": "skills/.disabled/ruby-pro",
+    "name": "ruby-pro",
+    "description": "Write idiomatic Ruby code with metaprogramming, Rails patterns, and",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "rust-pro",
+    "path": "skills/.disabled/rust-pro",
+    "name": "rust-pro",
+    "description": "Master Rust 1.75+ with modern async patterns, advanced type system",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "salesforce-development",
+    "path": "skills/.disabled/salesforce-development",
+    "name": "salesforce-development",
+    "description": "\"Expert patterns for Salesforce platform development including Lightning Web Components (LWC), Apex triggers and classes, REST/Bulk APIs, Connected Apps, and Salesforce DX with scratch orgs and 2nd generation packages (2GP). Use when: salesforce, sfdc, apex, lwc, lightning web components.\"",
+    "risk": "unknown",
+    "source": "vibeship-spawner-skills (Apache 2.0)"
+  },
+  {
+    "id": "scala-pro",
+    "path": "skills/.disabled/scala-pro",
+    "name": "scala-pro",
+    "description": "Master enterprise-grade Scala development with functional",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "security-requirement-extraction",
+    "path": "skills/.disabled/security-requirement-extraction",
+    "name": "security-requirement-extraction",
+    "description": "Derive security requirements from threat models and business context. Use when translating threats into actionable requirements, creating security user stories, or building security test cases.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "shodan-reconnaissance",
+    "path": "skills/.disabled/shodan-reconnaissance",
+    "name": "Shodan Reconnaissance and Pentesting",
+    "description": "This skill should be used when the user asks to \"search for exposed devices on the internet,\" \"perform Shodan reconnaissance,\" \"find vulnerable services using Shodan,\" \"scan IP ranges with Shodan,\" or \"discover IoT devices and open ports.\" It provides comprehensive guidance for using Shodan's search engine, CLI, and API for penetration testing reconnaissance.",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "shopify-apps",
+    "path": "skills/.disabled/shopify-apps",
+    "name": "shopify-apps",
+    "description": "\"Expert patterns for Shopify app development including Remix/React Router apps, embedded apps with App Bridge, webhook handling, GraphQL Admin API, Polaris components, billing, and app extensions. Use when: shopify app, shopify, embedded app, polaris, app bridge.\"",
+    "risk": "unknown",
+    "source": "vibeship-spawner-skills (Apache 2.0)"
+  },
+  {
+    "id": "shopify-development",
+    "path": "skills/.disabled/shopify-development",
+    "name": "shopify-development",
+    "description": "|",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "systems-programming-rust-project",
+    "path": "skills/.disabled/systems-programming-rust-project",
+    "name": "systems-programming-rust-project",
+    "description": "\"You are a Rust project architecture expert specializing in scaffolding production-ready Rust applications. Generate complete project structures with cargo tooling, proper module organization, testing\"",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "unity-developer",
+    "path": "skills/.disabled/unity-developer",
+    "name": "unity-developer",
+    "description": "Build Unity games with optimized C# scripts, efficient rendering,",
+    "risk": "unknown",
+    "source": "unknown"
+  },
+  {
+    "id": "unreal-engine-cpp-pro",
+    "path": "skills/.disabled/unreal-engine-cpp-pro",
+    "name": "unreal-engine-cpp-pro",
+    "description": "Expert guide for Unreal Engine 5.x C++ development, covering UObject hygiene, performance patterns, and best practices.",
+    "risk": "safe",
+    "source": "self"
+  },
+  {
+    "id": "windows-privilege-escalation",
+    "path": "skills/.disabled/windows-privilege-escalation",
+    "name": "Windows Privilege Escalation",
+    "description": "This skill should be used when the user asks to \"escalate privileges on Windows,\" \"find Windows privesc vectors,\" \"enumerate Windows for privilege escalation,\" \"exploit Windows misconfigurations,\" or \"perform post-exploitation privilege escalation.\" It provides comprehensive guidance for discovering and exploiting privilege escalation vulnerabilities in Windows environments.",
+    "risk": "unknown",
+    "source": "unknown"
+  }
+]

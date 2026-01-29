@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-01-29T12:19:36.343Z",
-  "total": 553,
+  "generatedAt": "2026-01-29T20:47:06.945Z",
+  "total": 511,
   "skills": [
     {
       "id": "3d-web-experience",
@@ -78,32 +78,6 @@
         "identify"
       ],
       "path": "skills/accessibility-compliance-accessibility-audit/SKILL.md"
-    },
-    {
-      "id": "active-directory-attacks",
-      "name": "Active Directory Attacks",
-      "description": "This skill should be used when the user asks to \"attack Active Directory\", \"exploit AD\", \"Kerberoasting\", \"DCSync\", \"pass-the-hash\", \"BloodHound enumeration\", \"Golden Ticket\", \"Silver Ticket\", \"AS-REP roasting\", \"NTLM relay\", or needs guidance on Windows domain penetration testing.",
-      "category": "security",
-      "tags": [
-        "active",
-        "directory",
-        "attacks"
-      ],
-      "triggers": [
-        "active",
-        "directory",
-        "attacks",
-        "skill",
-        "should",
-        "used",
-        "user",
-        "asks",
-        "attack",
-        "exploit",
-        "ad",
-        "kerberoasting"
-      ],
-      "path": "skills/active-directory-attacks/SKILL.md"
     },
     {
       "id": "address-github-comments",
@@ -504,31 +478,6 @@
         "up"
       ],
       "path": "skills/analytics-tracking/SKILL.md"
-    },
-    {
-      "id": "angular-migration",
-      "name": "angular-migration",
-      "description": "Migrate from AngularJS to Angular using hybrid mode, incremental component rewriting, and dependency injection updates. Use when upgrading AngularJS applications, planning framework migrations, or modernizing legacy Angular code.",
-      "category": "general",
-      "tags": [
-        "angular",
-        "migration"
-      ],
-      "triggers": [
-        "angular",
-        "migration",
-        "migrate",
-        "angularjs",
-        "hybrid",
-        "mode",
-        "incremental",
-        "component",
-        "rewriting",
-        "dependency",
-        "injection",
-        "updates"
-      ],
-      "path": "skills/angular-migration/SKILL.md"
     },
     {
       "id": "anti-reversing-techniques",
@@ -956,32 +905,6 @@
         "bound"
       ],
       "path": "skills/async-python-patterns/SKILL.md"
-    },
-    {
-      "id": "attack-tree-construction",
-      "name": "attack-tree-construction",
-      "description": "Build comprehensive attack trees to visualize threat paths. Use when mapping attack scenarios, identifying defense gaps, or communicating security risks to stakeholders.",
-      "category": "security",
-      "tags": [
-        "attack",
-        "tree",
-        "construction"
-      ],
-      "triggers": [
-        "attack",
-        "tree",
-        "construction",
-        "trees",
-        "visualize",
-        "threat",
-        "paths",
-        "mapping",
-        "scenarios",
-        "identifying",
-        "defense",
-        "gaps"
-      ],
-      "path": "skills/attack-tree-construction/SKILL.md"
     },
     {
       "id": "auth-implementation-patterns",
@@ -1524,30 +1447,6 @@
       "path": "skills/binary-analysis-patterns/SKILL.md"
     },
     {
-      "id": "blockchain-developer",
-      "name": "blockchain-developer",
-      "description": "Build production-ready Web3 applications, smart contracts, and decentralized systems. Implements DeFi protocols, NFT platforms, DAOs, and enterprise blockchain integrations. Use PROACTIVELY for smart contracts, Web3 apps, DeFi protocols, or blockchain infrastructure.",
-      "category": "general",
-      "tags": [
-        "blockchain"
-      ],
-      "triggers": [
-        "blockchain",
-        "developer",
-        "web3",
-        "applications",
-        "smart",
-        "contracts",
-        "decentralized",
-        "implements",
-        "defi",
-        "protocols",
-        "nft",
-        "platforms"
-      ],
-      "path": "skills/blockchain-developer/SKILL.md"
-    },
-    {
       "id": "blockrun",
       "name": "blockrun",
       "description": "Use when user needs capabilities Claude lacks (image generation, real-time X/Twitter data) or explicitly requests external models (\"blockrun\", \"use grok\", \"use gpt\", \"dall-e\", \"deepseek\")",
@@ -1620,32 +1519,6 @@
         "benefit"
       ],
       "path": "skills/brand-guidelines-anthropic/SKILL.md"
-    },
-    {
-      "id": "brand-guidelines-community",
-      "name": "brand-guidelines",
-      "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
-      "category": "general",
-      "tags": [
-        "brand",
-        "guidelines",
-        "community"
-      ],
-      "triggers": [
-        "brand",
-        "guidelines",
-        "community",
-        "applies",
-        "anthropic",
-        "official",
-        "colors",
-        "typography",
-        "any",
-        "sort",
-        "artifact",
-        "may"
-      ],
-      "path": "skills/brand-guidelines-community/SKILL.md"
     },
     {
       "id": "broken-authentication",
@@ -1844,30 +1717,6 @@
         "line"
       ],
       "path": "skills/busybox-on-windows/SKILL.md"
-    },
-    {
-      "id": "c-pro",
-      "name": "c-pro",
-      "description": "Write efficient C code with proper memory management, pointer arithmetic, and system calls. Handles embedded systems, kernel modules, and performance-critical code. Use PROACTIVELY for C optimization, memory issues, or system programming.",
-      "category": "general",
-      "tags": [
-        "c"
-      ],
-      "triggers": [
-        "c",
-        "pro",
-        "write",
-        "efficient",
-        "code",
-        "proper",
-        "memory",
-        "pointer",
-        "arithmetic",
-        "calls",
-        "embedded",
-        "kernel"
-      ],
-      "path": "skills/c-pro/SKILL.md"
     },
     {
       "id": "c4-architecture-c4-architecture",
@@ -3332,30 +3181,6 @@
       "path": "skills/cost-optimization/SKILL.md"
     },
     {
-      "id": "cpp-pro",
-      "name": "cpp-pro",
-      "description": "Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles templates, move semantics, and performance optimization. Use PROACTIVELY for C++ refactoring, memory safety, or complex C++ patterns.",
-      "category": "architecture",
-      "tags": [
-        "cpp"
-      ],
-      "triggers": [
-        "cpp",
-        "pro",
-        "write",
-        "idiomatic",
-        "code",
-        "features",
-        "raii",
-        "smart",
-        "pointers",
-        "stl",
-        "algorithms",
-        "move"
-      ],
-      "path": "skills/cpp-pro/SKILL.md"
-    },
-    {
       "id": "cqrs-implementation",
       "name": "cqrs-implementation",
       "description": "Implement Command Query Responsibility Segregation for scalable architectures. Use when separating read and write models, optimizing query performance, or building event-sourced systems.",
@@ -3932,31 +3757,6 @@
       "path": "skills/debugging-toolkit-smart-debug/SKILL.md"
     },
     {
-      "id": "defi-protocol-templates",
-      "name": "defi-protocol-templates",
-      "description": "Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and lending systems. Use when building decentralized finance applications or smart contract protocols.",
-      "category": "business",
-      "tags": [
-        "defi",
-        "protocol"
-      ],
-      "triggers": [
-        "defi",
-        "protocol",
-        "protocols",
-        "staking",
-        "amms",
-        "governance",
-        "lending",
-        "building",
-        "decentralized",
-        "finance",
-        "applications",
-        "smart"
-      ],
-      "path": "skills/defi-protocol-templates/SKILL.md"
-    },
-    {
       "id": "dependency-management-deps-audit",
       "name": "dependency-management-deps-audit",
       "description": "You are a dependency security expert specializing in vulnerability scanning, license compliance, and supply chain security. Analyze project dependencies for known vulnerabilities, licensing issues, outdated packages, and provide actionable remediation strategies.",
@@ -4258,30 +4058,6 @@
       "path": "skills/distributed-tracing/SKILL.md"
     },
     {
-      "id": "django-pro",
-      "name": "django-pro",
-      "description": "Master Django 5.x with async views, DRF, Celery, and Django Channels. Build scalable web applications with proper architecture, testing, and deployment. Use PROACTIVELY for Django development, ORM optimization, or complex Django patterns.",
-      "category": "infrastructure",
-      "tags": [
-        "django"
-      ],
-      "triggers": [
-        "django",
-        "pro",
-        "async",
-        "views",
-        "drf",
-        "celery",
-        "channels",
-        "scalable",
-        "web",
-        "applications",
-        "proper",
-        "architecture"
-      ],
-      "path": "skills/django-pro/SKILL.md"
-    },
-    {
       "id": "doc-coauthoring",
       "name": "doc-coauthoring",
       "description": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks.",
@@ -4549,30 +4325,6 @@
         "enable"
       ],
       "path": "skills/e2e-testing-patterns/SKILL.md"
-    },
-    {
-      "id": "elixir-pro",
-      "name": "elixir-pro",
-      "description": "Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems. Use PROACTIVELY for Elixir refactoring, OTP design, or complex BEAM optimizations.",
-      "category": "architecture",
-      "tags": [
-        "elixir"
-      ],
-      "triggers": [
-        "elixir",
-        "pro",
-        "write",
-        "idiomatic",
-        "code",
-        "otp",
-        "supervision",
-        "trees",
-        "phoenix",
-        "liveview",
-        "masters",
-        "concurrency"
-      ],
-      "path": "skills/elixir-pro/SKILL.md"
     },
     {
       "id": "email-sequence",
@@ -4887,32 +4639,6 @@
         "applications"
       ],
       "path": "skills/error-handling-patterns/SKILL.md"
-    },
-    {
-      "id": "ethical-hacking-methodology",
-      "name": "Ethical Hacking Methodology",
-      "description": "This skill should be used when the user asks to \"learn ethical hacking\", \"understand penetration testing lifecycle\", \"perform reconnaissance\", \"conduct security scanning\", \"exploit vulnerabilities\", or \"write penetration test reports\". It provides comprehensive ethical hacking methodology and techniques.",
-      "category": "security",
-      "tags": [
-        "ethical",
-        "hacking",
-        "methodology"
-      ],
-      "triggers": [
-        "ethical",
-        "hacking",
-        "methodology",
-        "skill",
-        "should",
-        "used",
-        "user",
-        "asks",
-        "learn",
-        "understand",
-        "penetration",
-        "testing"
-      ],
-      "path": "skills/ethical-hacking-methodology/SKILL.md"
     },
     {
       "id": "event-sourcing-architect",
@@ -5231,30 +4957,6 @@
       "path": "skills/firmware-analyst/SKILL.md"
     },
     {
-      "id": "flutter-expert",
-      "name": "flutter-expert",
-      "description": "Master Flutter development with Dart 3, advanced widgets, and multi-platform deployment. Handles state management, animations, testing, and performance optimization for mobile, web, desktop, and embedded platforms. Use PROACTIVELY for Flutter architecture, UI implementation, or cross-platform features.",
-      "category": "infrastructure",
-      "tags": [
-        "flutter"
-      ],
-      "triggers": [
-        "flutter",
-        "development",
-        "dart",
-        "widgets",
-        "multi",
-        "platform",
-        "deployment",
-        "state",
-        "animations",
-        "testing",
-        "performance",
-        "optimization"
-      ],
-      "path": "skills/flutter-expert/SKILL.md"
-    },
-    {
       "id": "form-cro",
       "name": "form-cro",
       "description": "Optimize any form that is NOT signup or account registration — including lead capture, contact, demo request, application, survey, quote, and checkout forms. Use when the goal is to increase form completion rate, reduce friction, or improve lead quality without breaking compliance or downstream workflows.",
@@ -5555,25 +5257,6 @@
         "working"
       ],
       "path": "skills/full-stack-orchestration-full-stack-feature/SKILL.md"
-    },
-    {
-      "id": "game-development",
-      "name": "game-development",
-      "description": "Game development orchestrator. Routes to platform-specific skills based on project needs.",
-      "category": "general",
-      "tags": [
-        "game"
-      ],
-      "triggers": [
-        "game",
-        "development",
-        "orchestrator",
-        "routes",
-        "platform",
-        "specific",
-        "skills"
-      ],
-      "path": "skills/game-development/SKILL.md"
     },
     {
       "id": "gcp-cloud-run",
@@ -5927,30 +5610,6 @@
       "path": "skills/godot-gdscript-patterns/SKILL.md"
     },
     {
-      "id": "golang-pro",
-      "name": "golang-pro",
-      "description": "Master Go 1.21+ with modern patterns, advanced concurrency, performance optimization, and production-ready microservices. Expert in the latest Go ecosystem including generics, workspaces, and cutting-edge frameworks. Use PROACTIVELY for Go development, architecture design, or performance optimization.",
-      "category": "development",
-      "tags": [
-        "golang"
-      ],
-      "triggers": [
-        "golang",
-        "pro",
-        "go",
-        "21",
-        "concurrency",
-        "performance",
-        "optimization",
-        "microservices",
-        "latest",
-        "ecosystem",
-        "including",
-        "generics"
-      ],
-      "path": "skills/golang-pro/SKILL.md"
-    },
-    {
       "id": "grafana-dashboards",
       "name": "grafana-dashboards",
       "description": "Create and manage production Grafana dashboards for real-time visualization of system and application metrics. Use when building monitoring dashboards, visualizing metrics, or creating operational observability interfaces.",
@@ -6024,30 +5683,6 @@
       "path": "skills/graphql-architect/SKILL.md"
     },
     {
-      "id": "haskell-pro",
-      "name": "haskell-pro",
-      "description": "Expert Haskell engineer specializing in advanced type systems, pure functional design, and high-reliability software. Use PROACTIVELY for type-level programming, concurrency, and architecture guidance.",
-      "category": "architecture",
-      "tags": [
-        "haskell"
-      ],
-      "triggers": [
-        "haskell",
-        "pro",
-        "engineer",
-        "specializing",
-        "type",
-        "pure",
-        "functional",
-        "high",
-        "reliability",
-        "software",
-        "proactively",
-        "level"
-      ],
-      "path": "skills/haskell-pro/SKILL.md"
-    },
-    {
       "id": "helm-chart-scaffolding",
       "name": "helm-chart-scaffolding",
       "description": "Design, organize, and manage Helm charts for templating and packaging Kubernetes applications with reusable configurations. Use when creating Helm charts, packaging Kubernetes applications, or implementing templated deployments.",
@@ -6071,30 +5706,6 @@
         "creating"
       ],
       "path": "skills/helm-chart-scaffolding/SKILL.md"
-    },
-    {
-      "id": "hr-pro",
-      "name": "hr-pro",
-      "description": "Professional, ethical HR partner for hiring, onboarding/offboarding, PTO and leave, performance, compliant policies, and employee relations. Ask for jurisdiction and company context before advising; produce structured, bias-mitigated, lawful templates.",
-      "category": "business",
-      "tags": [
-        "hr"
-      ],
-      "triggers": [
-        "hr",
-        "pro",
-        "professional",
-        "ethical",
-        "partner",
-        "hiring",
-        "onboarding",
-        "offboarding",
-        "pto",
-        "leave",
-        "performance",
-        "compliant"
-      ],
-      "path": "skills/hr-pro/SKILL.md"
     },
     {
       "id": "html-injection-testing",
@@ -6463,56 +6074,6 @@
       "path": "skills/internal-comms-anthropic/SKILL.md"
     },
     {
-      "id": "internal-comms-community",
-      "name": "internal-comms",
-      "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
-      "category": "security",
-      "tags": [
-        "internal",
-        "comms",
-        "community"
-      ],
-      "triggers": [
-        "internal",
-        "comms",
-        "community",
-        "set",
-        "resources",
-        "me",
-        "write",
-        "all",
-        "kinds",
-        "communications",
-        "formats",
-        "my"
-      ],
-      "path": "skills/internal-comms-community/SKILL.md"
-    },
-    {
-      "id": "ios-developer",
-      "name": "ios-developer",
-      "description": "Develop native iOS applications with Swift/SwiftUI. Masters iOS 18, SwiftUI, UIKit integration, Core Data, networking, and App Store optimization. Use PROACTIVELY for iOS-specific features, App Store optimization, or native iOS development.",
-      "category": "data-ai",
-      "tags": [
-        "ios"
-      ],
-      "triggers": [
-        "ios",
-        "developer",
-        "develop",
-        "native",
-        "applications",
-        "swift",
-        "swiftui",
-        "masters",
-        "18",
-        "uikit",
-        "integration",
-        "core"
-      ],
-      "path": "skills/ios-developer/SKILL.md"
-    },
-    {
       "id": "istio-traffic-management",
       "name": "istio-traffic-management",
       "description": "Configure Istio traffic management including routing, load balancing, circuit breakers, and canary deployments. Use when implementing service mesh traffic policies, progressive delivery, or resilience patterns.",
@@ -6536,30 +6097,6 @@
         "implementing"
       ],
       "path": "skills/istio-traffic-management/SKILL.md"
-    },
-    {
-      "id": "java-pro",
-      "name": "java-pro",
-      "description": "Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Expert in the latest Java ecosystem including GraalVM, Project Loom, and cloud-native patterns. Use PROACTIVELY for Java development, microservices architecture, or performance optimization.",
-      "category": "infrastructure",
-      "tags": [
-        "java"
-      ],
-      "triggers": [
-        "java",
-        "pro",
-        "21",
-        "features",
-        "like",
-        "virtual",
-        "threads",
-        "matching",
-        "spring",
-        "boot",
-        "latest",
-        "ecosystem"
-      ],
-      "path": "skills/java-pro/SKILL.md"
     },
     {
       "id": "javascript-mastery",
@@ -6660,30 +6197,6 @@
       "path": "skills/javascript-typescript-typescript-scaffold/SKILL.md"
     },
     {
-      "id": "julia-pro",
-      "name": "julia-pro",
-      "description": "Master Julia 1.10+ with modern features, performance optimization, multiple dispatch, and production-ready practices. Expert in the Julia ecosystem including package management, scientific computing, and high-performance numerical code. Use PROACTIVELY for Julia development, optimization, or advanced Julia patterns.",
-      "category": "architecture",
-      "tags": [
-        "julia"
-      ],
-      "triggers": [
-        "julia",
-        "pro",
-        "10",
-        "features",
-        "performance",
-        "optimization",
-        "multiple",
-        "dispatch",
-        "ecosystem",
-        "including",
-        "package",
-        "scientific"
-      ],
-      "path": "skills/julia-pro/SKILL.md"
-    },
-    {
       "id": "k8s-manifest-generator",
       "name": "k8s-manifest-generator",
       "description": "Create production-ready Kubernetes manifests for Deployments, Services, ConfigMaps, and Secrets following best practices and security standards. Use when generating Kubernetes YAML manifests, creating K8s resources, or implementing production-grade Kubernetes configurations.",
@@ -6708,32 +6221,6 @@
         "generating"
       ],
       "path": "skills/k8s-manifest-generator/SKILL.md"
-    },
-    {
-      "id": "k8s-security-policies",
-      "name": "k8s-security-policies",
-      "description": "Implement Kubernetes security policies including NetworkPolicy, PodSecurityPolicy, and RBAC for production-grade security. Use when securing Kubernetes clusters, implementing network isolation, or enforcing pod security standards.",
-      "category": "security",
-      "tags": [
-        "k8s",
-        "security",
-        "policies"
-      ],
-      "triggers": [
-        "k8s",
-        "security",
-        "policies",
-        "kubernetes",
-        "including",
-        "networkpolicy",
-        "podsecuritypolicy",
-        "rbac",
-        "grade",
-        "securing",
-        "clusters",
-        "implementing"
-      ],
-      "path": "skills/k8s-security-policies/SKILL.md"
     },
     {
       "id": "kaizen",
@@ -7028,32 +6515,6 @@
         "every"
       ],
       "path": "skills/lint-and-validate/SKILL.md"
-    },
-    {
-      "id": "linux-privilege-escalation",
-      "name": "Linux Privilege Escalation",
-      "description": "This skill should be used when the user asks to \"escalate privileges on Linux\", \"find privesc vectors on Linux systems\", \"exploit sudo misconfigurations\", \"abuse SUID binaries\", \"exploit cron jobs for root access\", \"enumerate Linux systems for privilege escalation\", or \"gain root access from low-privilege shell\". It provides comprehensive techniques for identifying and exploiting privilege escalation paths on Linux systems.",
-      "category": "general",
-      "tags": [
-        "linux",
-        "privilege",
-        "escalation"
-      ],
-      "triggers": [
-        "linux",
-        "privilege",
-        "escalation",
-        "skill",
-        "should",
-        "used",
-        "user",
-        "asks",
-        "escalate",
-        "privileges",
-        "find",
-        "privesc"
-      ],
-      "path": "skills/linux-privilege-escalation/SKILL.md"
     },
     {
       "id": "linux-shell-scripting",
@@ -7534,31 +6995,6 @@
       "path": "skills/microservices-patterns/SKILL.md"
     },
     {
-      "id": "minecraft-bukkit-pro",
-      "name": "minecraft-bukkit-pro",
-      "description": "Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs. Specializes in event-driven architecture, command systems, world manipulation, player management, and performance optimization. Use PROACTIVELY for plugin architecture, gameplay mechanics, server-side features, or cross-version compatibility.",
-      "category": "architecture",
-      "tags": [
-        "minecraft",
-        "bukkit"
-      ],
-      "triggers": [
-        "minecraft",
-        "bukkit",
-        "pro",
-        "server",
-        "plugin",
-        "development",
-        "spigot",
-        "paper",
-        "apis",
-        "specializes",
-        "event",
-        "driven"
-      ],
-      "path": "skills/minecraft-bukkit-pro/SKILL.md"
-    },
-    {
       "id": "ml-engineer",
       "name": "ml-engineer",
       "description": "Build production ML systems with PyTorch 2.x, TensorFlow, and modern ML frameworks. Implements model serving, feature engineering, A/B testing, and monitoring. Use PROACTIVELY for ML model deployment, inference optimization, or production ML infrastructure.",
@@ -7777,32 +7213,6 @@
         "dependency"
       ],
       "path": "skills/monorepo-management/SKILL.md"
-    },
-    {
-      "id": "moodle-external-api-development",
-      "name": "moodle-external-api-development",
-      "description": "Create custom external web service APIs for Moodle LMS. Use when implementing web services for course management, user tracking, quiz operations, or custom plugin functionality. Covers parameter validation, database operations, error handling, service registration, and Moodle coding standards.",
-      "category": "infrastructure",
-      "tags": [
-        "moodle",
-        "external",
-        "api"
-      ],
-      "triggers": [
-        "moodle",
-        "external",
-        "api",
-        "development",
-        "custom",
-        "web",
-        "apis",
-        "lms",
-        "implementing",
-        "course",
-        "user",
-        "tracking"
-      ],
-      "path": "skills/moodle-external-api-development/SKILL.md"
     },
     {
       "id": "mtls-configuration",
@@ -8080,31 +7490,6 @@
         "protected"
       ],
       "path": "skills/nextjs-supabase-auth/SKILL.md"
-    },
-    {
-      "id": "nft-standards",
-      "name": "nft-standards",
-      "description": "Implement NFT standards (ERC-721, ERC-1155) with proper metadata handling, minting strategies, and marketplace integration. Use when creating NFT contracts, building NFT marketplaces, or implementing digital asset systems.",
-      "category": "general",
-      "tags": [
-        "nft",
-        "standards"
-      ],
-      "triggers": [
-        "nft",
-        "standards",
-        "erc",
-        "721",
-        "1155",
-        "proper",
-        "metadata",
-        "handling",
-        "minting",
-        "marketplace",
-        "integration",
-        "creating"
-      ],
-      "path": "skills/nft-standards/SKILL.md"
     },
     {
       "id": "nodejs-backend-patterns",
@@ -8662,56 +8047,6 @@
       "path": "skills/pdf-official/SKILL.md"
     },
     {
-      "id": "pentest-checklist",
-      "name": "Pentest Checklist",
-      "description": "This skill should be used when the user asks to \"plan a penetration test\", \"create a security assessment checklist\", \"prepare for penetration testing\", \"define pentest scope\", \"follow security testing best practices\", or needs a structured methodology for penetration testing engagements.",
-      "category": "security",
-      "tags": [
-        "pentest",
-        "checklist"
-      ],
-      "triggers": [
-        "pentest",
-        "checklist",
-        "skill",
-        "should",
-        "used",
-        "user",
-        "asks",
-        "plan",
-        "penetration",
-        "test",
-        "security",
-        "assessment"
-      ],
-      "path": "skills/pentest-checklist/SKILL.md"
-    },
-    {
-      "id": "pentest-commands",
-      "name": "Pentest Commands",
-      "description": "This skill should be used when the user asks to \"run pentest commands\", \"scan with nmap\", \"use metasploit exploits\", \"crack passwords with hydra or john\", \"scan web vulnerabilities with nikto\", \"enumerate networks\", or needs essential penetration testing command references.",
-      "category": "testing",
-      "tags": [
-        "pentest",
-        "commands"
-      ],
-      "triggers": [
-        "pentest",
-        "commands",
-        "skill",
-        "should",
-        "used",
-        "user",
-        "asks",
-        "run",
-        "scan",
-        "nmap",
-        "metasploit",
-        "exploits"
-      ],
-      "path": "skills/pentest-commands/SKILL.md"
-    },
-    {
       "id": "performance-engineer",
       "name": "performance-engineer",
       "description": "Expert performance engineer specializing in modern observability, application optimization, and scalable system performance. Masters OpenTelemetry, distributed tracing, load testing, multi-tier caching, Core Web Vitals, and performance monitoring. Handles end-to-end optimization, real user monitoring, and scalability patterns. Use PROACTIVELY for performance optimization, observability, or scalability challenges.",
@@ -8824,30 +8159,6 @@
         "scratch"
       ],
       "path": "skills/personal-tool-builder/SKILL.md"
-    },
-    {
-      "id": "php-pro",
-      "name": "php-pro",
-      "description": "Write idiomatic PHP code with generators, iterators, SPL data structures, and modern OOP features. Use PROACTIVELY for high-performance PHP applications.",
-      "category": "data-ai",
-      "tags": [
-        "php"
-      ],
-      "triggers": [
-        "php",
-        "pro",
-        "write",
-        "idiomatic",
-        "code",
-        "generators",
-        "iterators",
-        "spl",
-        "data",
-        "structures",
-        "oop",
-        "features"
-      ],
-      "path": "skills/php-pro/SKILL.md"
     },
     {
       "id": "plaid-fintech",
@@ -9187,32 +8498,6 @@
         "issues"
       ],
       "path": "skills/prisma-expert/SKILL.md"
-    },
-    {
-      "id": "privilege-escalation-methods",
-      "name": "Privilege Escalation Methods",
-      "description": "This skill should be used when the user asks to \"escalate privileges\", \"get root access\", \"become administrator\", \"privesc techniques\", \"abuse sudo\", \"exploit SUID binaries\", \"Kerberoasting\", \"pass-the-ticket\", \"token impersonation\", or needs guidance on post-exploitation privilege escalation for Linux or Windows systems.",
-      "category": "general",
-      "tags": [
-        "privilege",
-        "escalation",
-        "methods"
-      ],
-      "triggers": [
-        "privilege",
-        "escalation",
-        "methods",
-        "skill",
-        "should",
-        "used",
-        "user",
-        "asks",
-        "escalate",
-        "privileges",
-        "get",
-        "root"
-      ],
-      "path": "skills/privilege-escalation-methods/SKILL.md"
     },
     {
       "id": "product-manager-toolkit",
@@ -9905,31 +9190,6 @@
       "path": "skills/red-team-tactics/SKILL.md"
     },
     {
-      "id": "red-team-tools",
-      "name": "Red Team Tools and Methodology",
-      "description": "This skill should be used when the user asks to \"follow red team methodology\", \"perform bug bounty hunting\", \"automate reconnaissance\", \"hunt for XSS vulnerabilities\", \"enumerate subdomains\", or needs security researcher techniques and tool configurations from top bug bounty hunters.",
-      "category": "security",
-      "tags": [
-        "red",
-        "team"
-      ],
-      "triggers": [
-        "red",
-        "team",
-        "methodology",
-        "skill",
-        "should",
-        "used",
-        "user",
-        "asks",
-        "follow",
-        "perform",
-        "bug",
-        "bounty"
-      ],
-      "path": "skills/red-team-tools/SKILL.md"
-    },
-    {
       "id": "reference-builder",
       "name": "reference-builder",
       "description": "Creates exhaustive technical references and API documentation. Generates comprehensive parameter listings, configuration guides, and searchable reference materials. Use PROACTIVELY for API docs, configuration references, or complete technical specifications.",
@@ -10126,30 +9386,6 @@
       "path": "skills/risk-metrics-calculation/SKILL.md"
     },
     {
-      "id": "ruby-pro",
-      "name": "ruby-pro",
-      "description": "Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specializes in Ruby on Rails, gem development, and testing frameworks. Use PROACTIVELY for Ruby refactoring, optimization, or complex Ruby features.",
-      "category": "development",
-      "tags": [
-        "ruby"
-      ],
-      "triggers": [
-        "ruby",
-        "pro",
-        "write",
-        "idiomatic",
-        "code",
-        "metaprogramming",
-        "rails",
-        "performance",
-        "optimization",
-        "specializes",
-        "gem",
-        "development"
-      ],
-      "path": "skills/ruby-pro/SKILL.md"
-    },
-    {
       "id": "rust-async-patterns",
       "name": "rust-async-patterns",
       "description": "Master Rust async programming with Tokio, async traits, error handling, and concurrent patterns. Use when building async Rust applications, implementing concurrent systems, or debugging async code.",
@@ -10173,30 +9409,6 @@
         "debugging"
       ],
       "path": "skills/rust-async-patterns/SKILL.md"
-    },
-    {
-      "id": "rust-pro",
-      "name": "rust-pro",
-      "description": "Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready systems programming. Expert in the latest Rust ecosystem including Tokio, axum, and cutting-edge crates. Use PROACTIVELY for Rust development, performance optimization, or systems programming.",
-      "category": "development",
-      "tags": [
-        "rust"
-      ],
-      "triggers": [
-        "rust",
-        "pro",
-        "75",
-        "async",
-        "type",
-        "features",
-        "programming",
-        "latest",
-        "ecosystem",
-        "including",
-        "tokio",
-        "axum"
-      ],
-      "path": "skills/rust-pro/SKILL.md"
     },
     {
       "id": "saga-orchestration",
@@ -10248,30 +9460,6 @@
       "path": "skills/sales-automator/SKILL.md"
     },
     {
-      "id": "salesforce-development",
-      "name": "salesforce-development",
-      "description": "Expert patterns for Salesforce platform development including Lightning Web Components (LWC), Apex triggers and classes, REST/Bulk APIs, Connected Apps, and Salesforce DX with scratch orgs and 2nd generation packages (2GP). Use when: salesforce, sfdc, apex, lwc, lightning web components.",
-      "category": "architecture",
-      "tags": [
-        "salesforce"
-      ],
-      "triggers": [
-        "salesforce",
-        "development",
-        "platform",
-        "including",
-        "lightning",
-        "web",
-        "components",
-        "lwc",
-        "apex",
-        "triggers",
-        "classes",
-        "rest"
-      ],
-      "path": "skills/salesforce-development/SKILL.md"
-    },
-    {
       "id": "sast-configuration",
       "name": "sast-configuration",
       "description": "Configure Static Application Security Testing (SAST) tools for automated vulnerability detection in application code. Use when setting up security scanning, implementing DevSecOps practices, or automating code vulnerability detection.",
@@ -10295,30 +9483,6 @@
         "setting"
       ],
       "path": "skills/sast-configuration/SKILL.md"
-    },
-    {
-      "id": "scala-pro",
-      "name": "scala-pro",
-      "description": "Master enterprise-grade Scala development with functional programming, distributed systems, and big data processing. Expert in Apache Pekko, Akka, Spark, ZIO/Cats Effect, and reactive architectures. Use PROACTIVELY for Scala system design, performance optimization, or enterprise integration.",
-      "category": "data-ai",
-      "tags": [
-        "scala"
-      ],
-      "triggers": [
-        "scala",
-        "pro",
-        "enterprise",
-        "grade",
-        "development",
-        "functional",
-        "programming",
-        "distributed",
-        "big",
-        "data",
-        "processing",
-        "apache"
-      ],
-      "path": "skills/scala-pro/SKILL.md"
     },
     {
       "id": "scanning-tools",
@@ -10517,32 +9681,6 @@
         "pci"
       ],
       "path": "skills/security-compliance-compliance-check/SKILL.md"
-    },
-    {
-      "id": "security-requirement-extraction",
-      "name": "security-requirement-extraction",
-      "description": "Derive security requirements from threat models and business context. Use when translating threats into actionable requirements, creating security user stories, or building security test cases.",
-      "category": "security",
-      "tags": [
-        "security",
-        "requirement",
-        "extraction"
-      ],
-      "triggers": [
-        "security",
-        "requirement",
-        "extraction",
-        "derive",
-        "requirements",
-        "threat",
-        "models",
-        "business",
-        "context",
-        "translating",
-        "threats",
-        "actionable"
-      ],
-      "path": "skills/security-requirement-extraction/SKILL.md"
     },
     {
       "id": "security-scanning-security-dependencies",
@@ -11101,80 +10239,6 @@
         "infrastructure"
       ],
       "path": "skills/shellcheck-configuration/SKILL.md"
-    },
-    {
-      "id": "shodan-reconnaissance",
-      "name": "Shodan Reconnaissance and Pentesting",
-      "description": "This skill should be used when the user asks to \"search for exposed devices on the internet,\" \"perform Shodan reconnaissance,\" \"find vulnerable services using Shodan,\" \"scan IP ranges with Shodan,\" or \"discover IoT devices and open ports.\" It provides comprehensive guidance for using Shodan's search engine, CLI, and API for penetration testing reconnaissance.",
-      "category": "development",
-      "tags": [
-        "shodan",
-        "reconnaissance"
-      ],
-      "triggers": [
-        "shodan",
-        "reconnaissance",
-        "pentesting",
-        "skill",
-        "should",
-        "used",
-        "user",
-        "asks",
-        "search",
-        "exposed",
-        "devices",
-        "internet"
-      ],
-      "path": "skills/shodan-reconnaissance/SKILL.md"
-    },
-    {
-      "id": "shopify-apps",
-      "name": "shopify-apps",
-      "description": "Expert patterns for Shopify app development including Remix/React Router apps, embedded apps with App Bridge, webhook handling, GraphQL Admin API, Polaris components, billing, and app extensions. Use when: shopify app, shopify, embedded app, polaris, app bridge.",
-      "category": "development",
-      "tags": [
-        "shopify",
-        "apps"
-      ],
-      "triggers": [
-        "shopify",
-        "apps",
-        "app",
-        "development",
-        "including",
-        "remix",
-        "react",
-        "router",
-        "embedded",
-        "bridge",
-        "webhook",
-        "handling"
-      ],
-      "path": "skills/shopify-apps/SKILL.md"
-    },
-    {
-      "id": "shopify-development",
-      "name": "shopify-development",
-      "description": "Build Shopify apps, extensions, themes using GraphQL Admin API, Shopify CLI, Polaris UI, and Liquid.\nTRIGGER: \"shopify\", \"shopify app\", \"checkout extension\", \"admin extension\", \"POS extension\",\n\"shopify theme\", \"liquid template\", \"polaris\", \"shopify graphql\", \"shopify webhook\",\n\"shopify billing\", \"app subscription\", \"metafields\", \"shopify functions\"",
-      "category": "development",
-      "tags": [
-        "shopify"
-      ],
-      "triggers": [
-        "shopify",
-        "development",
-        "apps",
-        "extensions",
-        "themes",
-        "graphql",
-        "admin",
-        "api",
-        "cli",
-        "polaris",
-        "ui",
-        "liquid"
-      ],
-      "path": "skills/shopify-development/SKILL.md"
     },
     {
       "id": "signup-flow-cro",
@@ -11854,31 +10918,6 @@
         "fixes"
       ],
       "path": "skills/systematic-debugging/SKILL.md"
-    },
-    {
-      "id": "systems-programming-rust-project",
-      "name": "systems-programming-rust-project",
-      "description": "You are a Rust project architecture expert specializing in scaffolding production-ready Rust applications. Generate complete project structures with cargo tooling, proper module organization, testing",
-      "category": "development",
-      "tags": [
-        "programming",
-        "rust"
-      ],
-      "triggers": [
-        "programming",
-        "rust",
-        "architecture",
-        "specializing",
-        "scaffolding",
-        "applications",
-        "generate",
-        "complete",
-        "structures",
-        "cargo",
-        "tooling",
-        "proper"
-      ],
-      "path": "skills/systems-programming-rust-project/SKILL.md"
     },
     {
       "id": "tailwind-design-system",
@@ -12795,30 +11834,6 @@
       "path": "skills/unit-testing-test-generate/SKILL.md"
     },
     {
-      "id": "unity-developer",
-      "name": "unity-developer",
-      "description": "Build Unity games with optimized C# scripts, efficient rendering, and proper asset management. Masters Unity 6 LTS, URP/HDRP pipelines, and cross-platform deployment. Handles gameplay systems, UI implementation, and platform optimization. Use PROACTIVELY for Unity performance issues, game mechanics, or cross-platform builds.",
-      "category": "infrastructure",
-      "tags": [
-        "unity"
-      ],
-      "triggers": [
-        "unity",
-        "developer",
-        "games",
-        "optimized",
-        "scripts",
-        "efficient",
-        "rendering",
-        "proper",
-        "asset",
-        "masters",
-        "lts",
-        "urp"
-      ],
-      "path": "skills/unity-developer/SKILL.md"
-    },
-    {
       "id": "unity-ecs-patterns",
       "name": "unity-ecs-patterns",
       "description": "Master Unity ECS (Entity Component System) with DOTS, Jobs, and Burst for high-performance game development. Use when building data-oriented games, optimizing performance, or working with large entity counts.",
@@ -12842,29 +11857,6 @@
         "building"
       ],
       "path": "skills/unity-ecs-patterns/SKILL.md"
-    },
-    {
-      "id": "unreal-engine-cpp-pro",
-      "name": "unreal-engine-cpp-pro",
-      "description": "Expert guide for Unreal Engine 5.x C++ development, covering UObject hygiene, performance patterns, and best practices.",
-      "category": "architecture",
-      "tags": [
-        "unreal",
-        "engine",
-        "cpp"
-      ],
-      "triggers": [
-        "unreal",
-        "engine",
-        "cpp",
-        "pro",
-        "development",
-        "covering",
-        "uobject",
-        "hygiene",
-        "performance"
-      ],
-      "path": "skills/unreal-engine-cpp-pro/SKILL.md"
     },
     {
       "id": "upstash-qstash",
@@ -13342,32 +12334,6 @@
         "functionality"
       ],
       "path": "skills/webapp-testing/SKILL.md"
-    },
-    {
-      "id": "windows-privilege-escalation",
-      "name": "Windows Privilege Escalation",
-      "description": "This skill should be used when the user asks to \"escalate privileges on Windows,\" \"find Windows privesc vectors,\" \"enumerate Windows for privilege escalation,\" \"exploit Windows misconfigurations,\" or \"perform post-exploitation privilege escalation.\" It provides comprehensive guidance for discovering and exploiting privilege escalation vulnerabilities in Windows environments.",
-      "category": "general",
-      "tags": [
-        "windows",
-        "privilege",
-        "escalation"
-      ],
-      "triggers": [
-        "windows",
-        "privilege",
-        "escalation",
-        "skill",
-        "should",
-        "used",
-        "user",
-        "asks",
-        "escalate",
-        "privileges",
-        "find",
-        "privesc"
-      ],
-      "path": "skills/windows-privilege-escalation/SKILL.md"
     },
     {
       "id": "wireshark-analysis",
